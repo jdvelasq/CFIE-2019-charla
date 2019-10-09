@@ -12,5 +12,5 @@ Profesor Titular, Facultad de Minas, Universidad Nacional de Colombia, Sede Mede
 jdvelasq@unal.edu.co
 
 
-
+Haga click [aqui](https://nbviewer.jupyter.org/github/jdvelasq/CFIE-2019-charla/blob/master/part-00.ipynb) para ver los documentos en nbviewer.
 
